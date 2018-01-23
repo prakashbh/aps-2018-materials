@@ -1,0 +1,22 @@
+Blog Post Links
+================
+
+This file contains link to all the blog posts that talk about required theory and discussion materials. 
+
+
+1. Aysmptotic Notations
+Link: https://itsphbytes.wordpress.com/2018/01/11/asymptotic-notations/
+
+
+2. memset in C
+Link: https://itsphbytes.wordpress.com/2018/01/22/memset-in-c/
+
+
+3. Setting MAX and MIN values for integer
+Link: https://itsphbytes.wordpress.com/2018/01/22/setting-max-and-min-values-for-integer-c/
+
+
+4. Sum of Multiples of N
+Link: https://itsphbytes.wordpress.com/2018/01/23/sum-of-multiples-of-n-c/
+
+
