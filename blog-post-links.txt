@@ -23,3 +23,8 @@ Link: https://itsphbytes.wordpress.com/2018/01/23/sum-of-multiples-of-n-c/
 5. Union-Find Data Structure - Introduction
 Link: https://itsphbytes.wordpress.com/2018/01/26/union-find-data-structure-intro/
 
+
+6. %d and %i Format Specifiers
+Link: https://itsphbytes.wordpress.com/2018/01/30/d-and-i-format-specifiers-c/
+
+
